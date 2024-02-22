@@ -9,7 +9,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Systems Engineer Student</h2></summary>
+    <summary><h3 style="display: inline-block">Systems Engineer Student</h3></summary>
   </ul>
 </div>
 
@@ -35,3 +35,12 @@
     <img src="https://skillicons.dev/icons?i=,cpp,github,html,js,py,vscode&perline=14"/>
   </a>
 </p>
+
+<br></br>
+<br></br>
+
+
+
+<header><h3 style="display: inline-block">I like Cats</h3></header>
+<img alt="cat" align="center"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+
